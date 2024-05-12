@@ -7,3 +7,6 @@ for (; j < N; ++j) {
     ans = max(ans, j - i + 1); // the window [i, j] is the maximum window we've found thus far
 }
 return ans;
+
+![image](https://github.com/rajkumarmajhi31/DSA/assets/118106939/47e406ab-ad7e-41ad-94d0-bcd65c7fb13c)
+

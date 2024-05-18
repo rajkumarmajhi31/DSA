@@ -9,4 +9,4 @@ for (; j < N; ++j) {
 return ans;
 
 ![image](https://github.com/rajkumarmajhi31/DSA/assets/118106939/47e406ab-ad7e-41ad-94d0-bcd65c7fb13c)
-
+// This is one of the pattern of DSA asked in interviews
